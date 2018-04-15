@@ -8,7 +8,7 @@ Main paper to be cited
 @inproceedings{su2018how,
   title={How time matters: Learning Time-Decay Attention for Contextual Spoken Language Understanding in Dialogues},
     author={Shang-Yu Su, Pei-Chieh Yuan, and Yun-Nung Chen},
-    booktitle={Proceedings of NAACL-HLT},
+    booktitle={Proceedings of The 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies},
     year={2018}
 }
 ```
